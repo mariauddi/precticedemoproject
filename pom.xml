@@ -135,7 +135,7 @@
           
           <configuration>
 			  <suiteXmlFiles>
-				  <suiteXmlFile>pipeline/${xmlFiles}</suiteXmlFile>
+				  <suiteXmlFile>pipeline\executionProfile\${xmlFiles}</suiteXmlFile>
 			  </suiteXmlFiles>
 		  </configuration>
 		  
