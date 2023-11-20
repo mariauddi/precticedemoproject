@@ -27,8 +27,8 @@ public class Common  {
 	  public ITestResult result;
 	  
 	  public ExtentReports reports = new ExtentReports();//extent
-	  public ExtentSparkReporter htmlreporter = new ExtentSparkReporter("Results/MariaExtenReport_" +System.currentTimeMillis()+".html"); //spark
-	 // public ExtentSparkReporter htmlreporter = new ExtentSparkReporter("Results/jenkins_extentReport.html"); //spark
+	  //public ExtentSparkReporter htmlreporter = new ExtentSparkReporter("Results/MariaExtenReport_" +System.currentTimeMillis()+".html"); //spark
+	  public ExtentSparkReporter htmlreporter = new ExtentSparkReporter("Results/jenkins_extentReport.html"); //spark
 	  public ExtentTest test;
 	  
 	  
