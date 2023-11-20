@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T19:09:21 EST" name="Suite" finished-at="2023-11-19T19:10:52 EST" duration-ms="90976">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T19:09:21 EST" name="Test" finished-at="2023-11-19T19:10:52 EST" duration-ms="90976">
+      <class name="Tset_Package.Verify_Field">
+        <test-method is-config="true" signature="IBrowsers(java.lang.String,java.lang.String)[pri:0, instance:Tset_Package.Verify_Field@293bb8a5]" started-at="2023-11-19T19:10:03 EST" name="IBrowsers" finished-at="2023-11-19T19:10:06 EST" duration-ms="3131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://tutorialsninja.com/demo/index.php?route=account/register]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IBrowsers -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tset_Package.Verify_Field@293bb8a5]" started-at="2023-11-19T19:10:06 EST" name="f" data-provider="yourstore" finished-at="2023-11-19T19:10:21 EST" duration-ms="14550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maria]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ud]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[maria@gamil.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[321-432-76457]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ud123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ud123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tset_Package.Verify_Field@293bb8a5]" started-at="2023-11-19T19:10:21 EST" name="f" data-provider="yourstore" finished-at="2023-11-19T19:10:36 EST" duration-ms="14909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mohsina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mohsina@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[645-645-697]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mk123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mk123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tset_Package.Verify_Field@293bb8a5]" started-at="2023-11-19T19:10:36 EST" name="f" data-provider="yourstore" finished-at="2023-11-19T19:10:51 EST" duration-ms="14932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lubna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lubna@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[543-867-5867]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mj123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mj123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Tset_Package.Verify_Field@293bb8a5]" started-at="2023-11-19T19:10:51 EST" name="afterclass" finished-at="2023-11-19T19:10:51 EST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Tset_Package.Verify_Field -->
+      <class name="Tset_Package.Registration_Page">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:21 EST" name="beforetest" finished-at="2023-11-19T19:09:21 EST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="IBrowsers(java.lang.String,java.lang.String)[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:21 EST" name="IBrowsers" finished-at="2023-11-19T19:09:26 EST" duration-ms="5118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://tutorialsninja.com/demo/index.php?route=account/register]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IBrowsers -->
+        <test-method signature="Validate_Webpage()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:26 EST" name="Validate_Webpage" finished-at="2023-11-19T19:09:29 EST" duration-ms="3067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Webpage -->
+        <test-method signature="Verify_error_message()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:29 EST" name="Verify_error_message" finished-at="2023-11-19T19:09:39 EST" duration-ms="10157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_error_message -->
+        <test-method signature="Verify_indication_of_mandatory_fields()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:39 EST" name="Verify_indication_of_mandatory_fields" finished-at="2023-11-19T19:09:49 EST" duration-ms="9194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_indication_of_mandatory_fields -->
+        <test-method signature="redirect_to_the_login_page()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:09:49 EST" name="redirect_to_the_login_page" finished-at="2023-11-19T19:10:02 EST" duration-ms="13714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirect_to_the_login_page -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:10:03 EST" name="afterclass" finished-at="2023-11-19T19:10:03 EST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="sftertest()[pri:0, instance:Tset_Package.Registration_Page@332a7fce]" started-at="2023-11-19T19:10:51 EST" name="sftertest" finished-at="2023-11-19T19:10:52 EST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sftertest -->
+      </class> <!-- Tset_Package.Registration_Page -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
